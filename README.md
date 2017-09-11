@@ -5,6 +5,12 @@ Mining profitability calculator that loads all required data from pools directly
 No more need to enter your stats manually.
 Set up your pools once — check profitability any time.
 
+### Requirements
+
+ [Microsoft .NET Framework 4.5.2](https://www.microsoft.com/en-us/download/details.aspx?id=42642)
+ 
+ [Microsoft Visual C++ Redistributable Packages](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
+
 ### Supported pools/coins:
 
 * EtherMine.org — Ethereum;
