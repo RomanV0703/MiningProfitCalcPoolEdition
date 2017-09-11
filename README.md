@@ -1,4 +1,7 @@
 # MiningProfitCalcPoolEdition
+
+![MainWindow]({{site.baseurl}}//MainWindow.png)
+
 Mining Profitability Calculator
 
 Mining profitability calculator that loads all required data from pools directly.
@@ -77,6 +80,3 @@ JSON-file format example:
   }
 ]
 ```
-
-
-
