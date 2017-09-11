@@ -1,6 +1,6 @@
 # MiningProfitCalcPoolEdition
 
-![MainWindow]({{site.baseurl}}//MainWindow.png)
+![MainWindow](MainWindow.png)
 
 Mining Profitability Calculator
 
