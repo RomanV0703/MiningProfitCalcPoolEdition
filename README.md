@@ -5,7 +5,9 @@
 Mining Profitability Calculator
 
 Mining profitability calculator that loads all required data from pools directly.
+
 No more need to enter your stats manually.
+
 Set up your pools once — check profitability any time.
 
 ### Requirements
