@@ -19,6 +19,7 @@ Set up your pools once — check profitability any time.
 (*) Limited support due to pool's API.
 
 Most pools require wallet address to get your data.
+
 Pools using MPOS engine (like CoinMine.pl, SuprNova.cc) require API key instead.
 
 ### UI
@@ -34,6 +35,7 @@ File -> Save to JSON — save workers list to JSON-file.
 #### Buttons
 
 Refresh All — refresh all data sources;
+
 Refresh Workers — keep crypto and fiat currencies data, refresh pools data only.
 
 ### Misc
