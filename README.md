@@ -15,6 +15,8 @@ Set up your pools once — check profitability any time.
  [Microsoft .NET Framework 4.5.2](https://www.microsoft.com/en-us/download/details.aspx?id=42642)
  
  [Microsoft Visual C++ Redistributable Packages](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads)
+ 
+ [Newtonsoft Json.NET](https://www.newtonsoft.com/json)
 
 ### Supported pools/coins:
 
