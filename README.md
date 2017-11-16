@@ -27,6 +27,7 @@ Set up your pools once — check profitability any time.
 * CoinMine.pl — Decred;
 * CoinMine.pl — LBRY Credits;
 * NanoPool.org — Monero;
+* NanoPool.org — Ethereum-Classic;
 * SuprNova.cc — Decred.
 
 (*) Limited support due to pool's API.
