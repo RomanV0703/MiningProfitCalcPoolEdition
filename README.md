@@ -30,6 +30,7 @@ Set up your pools once — check profitability any time.
 * NanoPool.org — Ethereum-Classic;
 * UniMining.net — Verge;
 * SuprNova.cc — Decred.
+* NiceHash.com — Bitcoin.
 
 (*) Limited support due to pool's API.
 
